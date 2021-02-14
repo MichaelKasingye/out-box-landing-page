@@ -1,0 +1,18 @@
+
+.body{
+    margin-top:17rem;
+
+}
+.entire_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    margin: 0px 
+}
+.body_section{
+    margin-left: 15px;
+}
+.entire_section:nth-child(2n){
+    background-color: antiquewhite;
+}

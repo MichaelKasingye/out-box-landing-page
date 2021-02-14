@@ -1,0 +1,16 @@
+.landingPage{
+    margin-top: 5rem;
+    width: 100%;
+    /* border: 2px solid green; */
+}
+.DIceGame{
+    width: 20rem;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.dicer{
+    width: 13rem;
+
+}
