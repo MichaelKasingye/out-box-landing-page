@@ -11,6 +11,9 @@ function links() {
           <Link to="/timer">
             <h4 className="navbar-brand mb-0 h1"> timer</h4>
           </Link>
+          <Link to="/timerclass">
+            <h4 className="navbar-brand mb-0 h1"> timerClass</h4>
+          </Link>
           <Link to="/dice">
             <h4 className="navbar-brand mb-0 h1">dice</h4>
           </Link>
