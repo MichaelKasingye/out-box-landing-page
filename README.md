@@ -1,2 +1,2 @@
 ## landing page
-outbox-landingpage.netlify.app
+https://outbox-landingpage.netlify.app/
